@@ -6,6 +6,11 @@ at line 19
 
 If you correctly implement this program, you should see the
 number of anagrams for each word listed below:
+    * arm -> 3 anagrams
+    * contains -> 5 anagrams
+    * stop -> 6 anagrams
+    * tesla -> 10 anagrams
+    * spear -> 12 anagrams
 """
 
 import time                   # This file allows you to calculate the speed of your algorithm
